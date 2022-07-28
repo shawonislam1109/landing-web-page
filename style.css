@@ -11,3 +11,9 @@
 i{
         color: goldenrod;
 }
+footer i {
+        color: white;
+        text-align:  center;
+        font-size: 1.5em;
+       padding: 0 10px;
+}
